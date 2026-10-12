@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ArtWaali — Handcrafted Resin Art",
+  "description": "Handcrafted resin art boutique featuring direct instant UPI \u0026 QR checkout, hardened Boss Mode with cryptographic authentication, and owner treasury management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
